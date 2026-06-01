@@ -1,0 +1,12 @@
+# package directories
+node_modules
+
+# IDE & Temp
+.idea
+.vscode
+coverage
+temp
+
+# OSX
+.DS_Store
+
